@@ -8,7 +8,7 @@ The relevant data in the dataset are data that falls under the Subject, Message 
 
 ## Feature Extraction
 
-The nature of this project is categorised under Natural Language Processing (NLP) and so a Bag of Words model was used which is a common feature-extraction technique. The technique vectorized the data in the Message and Subject column (which was conacatenated to 'Email Content') which is to say that it converted the text data into numerical features. 
+The nature of this project is categorised under Natural Language Processing (NLP) and so a Bag of Words model was used which is a common feature-extraction technique. The technique vectorized the data in the Message and Subject column (which was concatenated to 'Email Content') which is to say that it converted the text data into numerical features. 
 
 Before this, the data is normalised via tokenization and lemmatization. This makes it so that the number of words are reduced by collapsing similar word forms into a single representation.
 
