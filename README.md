@@ -14,6 +14,8 @@ Before this, the data is normalised via tokenization and lemmatization. This mak
 
 These processes made it so that the number of features is reduced from 156081 to 149269 which represents the number of unique words in the data.
 
+## Training and Classifiers
+
 The classifiers being tested are:
 - Support Vector Machine
 - Decision Tree
