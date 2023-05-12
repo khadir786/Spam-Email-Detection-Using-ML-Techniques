@@ -24,6 +24,8 @@ The classifiers being tested are:
 - K-Nearest Neighbors
 - Logistic Regression
 
+The data is split 80-20 into training and testing subsets.
+
 Each classifier is given a 10-fold Cross-Validation Score (accuracy). These scores are used to compare how well of an estimate each model can give on unseen data.
 
 The performance of each classifer is also evaluated on various different metrics given by a classification report, which is itself is generated based on 5-fold cross-validated data.
