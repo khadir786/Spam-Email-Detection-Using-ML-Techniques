@@ -49,5 +49,7 @@ Each classifier proves to be very effective in the detection of spam emails. The
 
 The Logistic Regression, Multinomial Naive Bayes and Random Forest are the most accurate within a very small margin. Refer to [80-20 Split Spam Detection Using Machine Learning Techniques.ipynb](https://github.com/khadir786/phishing_ml/blob/main/80-20%20Split%20Spam%20Detection%20Using%20Machine%20Learning%20Techniques.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wvQqRc9Bt7wryJtg4ZgpmIobDZ46Lil3?usp=sharing)
 
+Runtime -> Run all
+
 
 
