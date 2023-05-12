@@ -17,7 +17,7 @@ The performance of each classifer is evaluated on various different metrics give
 - Recall
 - Accuracy
 
-The following is an explanation of what each of these values mean taken from the [sklearn metrics documentation](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_recall_fscothe [sklearn metrics documentation](re_support.html#sklearn.metrics.precision_recall_fscore_support)
+The following is an explanation of what each of these values mean taken from the [sklearn metrics documentation](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_recall_fscothere_support.html#sklearn.metrics.precision_recall_fscore_support)
 
 > The precision is the ratio tp / (tp + fp) where tp is the number of true positives and fp the number of false positives. The precision is intuitively the ability of the classifier not to label a negative sample as positive.
 > The recall is the ratio tp / (tp + fn) where tp is the number of true positives and fn the number of false negatives. The recall is intuitively the ability of the classifier to find all the positive samples.
