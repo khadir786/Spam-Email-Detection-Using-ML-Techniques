@@ -9,3 +9,12 @@ The classifiers being tested are:
 - Random Forest
 - K-Nearest Neighbors
 - Logistic Regression
+
+
+The performance of each classifer is evaluated on various different metrics:
+-F1 Score
+-Precision
+-Recall
+-Accuracy
+
+Each classifier is also given a 10-fold Cross Validation Score (accuracy). These scores are used to compare how well of an estimate each model can give on unseen data.
