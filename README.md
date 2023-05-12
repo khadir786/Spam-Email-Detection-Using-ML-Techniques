@@ -41,5 +41,12 @@ The following is an explanation of what each of these values mean taken from the
 > The F-beta score weights recall more than precision by a factor of beta. beta == 1.0 means recall and precision are equally important.
 > The support is the number of occurrences of each class in y_true.
 
+## Results
+
+
+
+Each classifier proves to be very effective in the detection of spam emails. The least effective is the K-Nearest Neighbours classifier, possibly due to the data being very high dimensional.
+
+The Logistic Regression, Multinomial Naive Bayes and Random Forest are the most accurate within a very small margin. Refer to [80-20 Split Spam Detection Using Machine Learning Techniques.ipynb](https://github.com/khadir786/phishing_ml/blob/main/80-20%20Split%20Spam%20Detection%20Using%20Machine%20Learning%20Techniques.ipynb)
 
 
